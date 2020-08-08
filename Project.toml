@@ -1,0 +1,4 @@
+name = "WaveletUtils"
+uuid = "5d4e3c67-a64b-4f70-9c1c-97a31e0bf421"
+authors = ["OTDE <mail@sethchapman.com>"]
+version = "0.1.0"
